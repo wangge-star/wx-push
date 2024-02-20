@@ -1,8 +1,8 @@
 module.exports = {
-  appid: "wx71941f6106ae1072",
-  appsecret: "b4b2ad8a8d4a94e403831886ac10c646",
-  template_id: "q14lTqsDyK0N-KcZUs8UKHOl3GWn2uErDk-8hbm2ouQ",
-  touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
+  appid: "wx655e17aa75769362",
+  appsecret: "800822376d9bf5fe4f15ad17d015e28a",
+  template_id: "LX7GKPkMT_zf19qS93G1ee6nMVGXYgO_6I22U9nURAQ",
+  touser: "oCKKC6d7fRqIOpKg9L9ImHoS-BjI",
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
   city: "邢台",
